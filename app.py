@@ -425,7 +425,6 @@ if sel_id is not None and (df_all["id"] == sel_id).any():
         st.caption(
             "Catatan: dataset ini hanya memuat angka total per rumah sakit "
             "(bukan rincian per kelas kamar / jenis layanan / jenis tenaga kerja). "
-            "Jika kamu punya data rinciannya, tab tambahan bisa ditambahkan di sini."
         )
 else:
     st.info("Pilih salah satu rumah sakit di atas untuk melihat profil lengkapnya.")
