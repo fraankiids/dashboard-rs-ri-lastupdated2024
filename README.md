@@ -17,8 +17,6 @@ Dashboard interaktif berbasis **Streamlit** memakai `Hospital_Indonesia_datasets
 
 > Catatan data: dataset sumber hanya berisi **angka total** per RS (bukan rincian per
 > kelas kamar / jenis layanan / jenis tenaga kerja seperti pada contoh gambar referensi).
-> Kalau kamu punya data rincian tsb, tab tambahan gampang ditambahkan di bagian
-> "PROFIL RUMAH SAKIT TERPILIH" pada `app.py`.
 
 ## Cara Menjalankan (Lokal — direkomendasikan)
 ```bash
